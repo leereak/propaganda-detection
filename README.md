@@ -33,7 +33,7 @@ We consider the Twitter IRA corpus (Edgett, 2017) as propagandistic, and the 'tw
 2. LABEL: Propaganda(1) or not (0).
 3. TEXT: The text of the tweets.
 
-#Code
+# Code
 The code includes the proposed LSTMR model (cross-lstm-rank.py) and the corresponding data preprocessing procedure (other files in this folder).
 All these codes are based on Python 3.6.
 The deep learning method is based on Pytorch 1.6.
